@@ -4,6 +4,7 @@ import MainContact from "./Componentes/MainContact"
 import "./css/MainContact.css"
 
 const contact = () => {
+  
     return (
       <>
       <div className='Contenedor'>

@@ -11,6 +11,7 @@ export const Home = () => {
     <div className="Contenedor">
       <Header/>
       <Main alumno={Alumno}/>
+      
       <Footer/>
     </div>
     </>

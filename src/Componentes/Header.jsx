@@ -22,6 +22,7 @@ export const Header = () => {
                 <Nav>
                     <Nav.Link className="navlink btn-dark" href="/">Home</Nav.Link>
                     <Nav.Link className="navlink btn-dark" href="/Contact">Contact</Nav.Link>
+                    <Nav.Link className="navlink btn-dark" href="/About">About</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
